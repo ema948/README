@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I've always been fascinated by the power that lies within data. The ability to extract valuable insights, uncover patterns and make informed decisions is what drew me into the world of data. As a passionate data enthusiast, I've embarked on a learning adventure to deepen my understanding and proficiency in analysing data</p>
+<p align="left">I've always been fascinated by the power that lies within data. The ability to extract valuable insights, uncover patterns and make informed decisions is what drew me into the world of data. As a passionate data enthusiast, I've embarked on a learning adventure to deepen my understanding and proficiency in data analytics </p>
 
 ###
 
@@ -44,7 +44,7 @@
 
 ###
 
-<p align="left">My goal is to become proficient in analysing data to drive meaningful insights. Whether it's extracting information from a database, analyzing trends with Python or creating interactive dashboards with Power BI and/or Tableau, I'm on a mission to master the art and science of data 📊✨</p>
+<p align="left">My goal is to become proficient in analyzing data to drive meaningful insights. Whether it's extracting information from a database, analyzing trends with Python or creating interactive dashboards with Power BI and/or Tableau, I'm on a mission to master the art and science of data 📊✨</p>
 
 ###
 
