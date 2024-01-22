@@ -1,4 +1,4 @@
-<h1 align="left">Welcome to My Data Journey! 👋</h1>
+<h1 align="left">Welcome to My GitHub profile! 👋</h1>
 
 ###
 
